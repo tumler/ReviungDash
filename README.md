@@ -51,7 +51,7 @@ Based on QMK
 * Works with VIAL UI (layout provided)
 * QMK Config (layout provided - has not been tested)
 
-Links to firmware to be added
+[Vial-QMK Firmware](https://github.com/tumler/vial-qmk/tree/Add_ReviungDash47)
 
 ![REVIUNG47 Vial](layouts/vial_keymap.png)  
 ![REVIUNG47 Vial](layouts/keyboard-layout_1_button.png)  
