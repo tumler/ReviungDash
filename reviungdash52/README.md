@@ -1,8 +1,7 @@
 # REVIUNGDASH52
 
-### TODO
-
-* Add Photos
+![REVIUNG52 Front](image/Reviungdash52_front.jpg)  
+![REVIUNG52 Zoom](image/Reviungdash52_zoom.jpg)  
 
 The REVIUNGDASH52 is a 52 key column staggered keyboard. Based on the
 REVIUNGDASH47 but with a larger thumb cluster.
@@ -19,30 +18,29 @@ Differences between the REVIUNGDASH47:
 as close as possible to remain small yet comfortable
 * Every layer designed as PCBs (could easily be swapped out for acrylic / metal layers)
 
-
 ## Parts list  
 
-* Top plate (PCB / Metal) 1.6mm --- 1 
+* Top plate (PCB / Metal) 1.6mm --- 1
 * Inner w/ MCU Cutout 1.2mm --- 4
 * PCB 1.6mm --- 1
 * Inner without MCU Cutout 1.6mm --- 1
 * Bottom Plate 1.6mm --- 1
- 
+
 * MCU (ProMicro or RP2040 that has the same dimensions as a ProMicro)
- 
+
 * Using Magnets as feet / standoffs:
 * M2 Screw 5mm --- 22 pieces
 * M2 Screw 6mm --- 4 pieces (to attach the magnets)
 * Through-hole M3 Magnets --- 4 pieces (+ as many as you need for the height you want for the standoffs)
- 
+
 * No standoffs (or using another system):
 * M2 Screw 5mm --- 26 pieces
- 
+
 * Rubber Feet --- 6 pieces (might require different sizes on the 2 internal legs - see photos)
- 
+
 * Diode [1N4148 SMD] --- 52 pieces  
 * MX compatible key switch --- 52 pieces  
- 
+
 * Keycaps
 * USB-C Cable --- 1
 
